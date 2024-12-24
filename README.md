@@ -3,6 +3,16 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 Architecture- https://excalidraw.com/#json=MZWN1oljrK06PtSHAlRo5,AsMc9Nlzk5bx8Yiie--fAw 
 
+FrameWork -
+Nextjs 
+tailwindcss
+shadcn 
+lucide icons 
+recharts 
+typescript( language)
+prisma(ORM)
+neondb - postgress - database.
+
 ## Getting Started
 
 First, run the development server:
