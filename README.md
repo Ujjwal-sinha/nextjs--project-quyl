@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 
-archiecture- https://excalidraw.com/#json=MZWN1oljrK06PtSHAlRo5,AsMc9Nlzk5bx8Yiie--fAw 
+Architecture- https://excalidraw.com/#json=MZWN1oljrK06PtSHAlRo5,AsMc9Nlzk5bx8Yiie--fAw 
 
 ## Getting Started
 
