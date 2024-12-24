@@ -20,7 +20,7 @@ export function Header() {
           <Button variant="ghost" size="icon">
             <Bell className="h-5 w-5" />
           </Button>
-          <Button variant="ghost" size="sm">John Doe</Button>
+          <Button variant="ghost" size="sm">Ujjwal Sinha</Button>
         </div>
       </div>
     </header>
